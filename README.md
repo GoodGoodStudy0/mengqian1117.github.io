@@ -25,7 +25,7 @@ git remote add mengqian1117 https://github.com/mengqian1117/js201714.git
 git remote update mengqian1117 
 git pull mengqian1117 master
 
-####7.提交本地仓库
+#### 7.提交本地仓库
 git add ­A
 
 git commit ­m “这是我第一次提交内容,就是练习一下”
